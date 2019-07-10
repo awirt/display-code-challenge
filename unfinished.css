@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+p{
+  font-size: 100pt;
+  font-family: Arial;
+  border: 2px solid white;
+}
+
+.odd{
+  background-color: red;
+/*   change display here */
+}
+
+.even{
+  background-color: blue;
+/*   change display here */
+}
+
+.odd-div{
+/*   change display here */
+}
